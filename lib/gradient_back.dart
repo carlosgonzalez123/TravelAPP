@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 class GradientBack extends StatelessWidget{
 
-  String title="app";
+  String title="APP";
 
   GradientBack(this.title);
   @override
